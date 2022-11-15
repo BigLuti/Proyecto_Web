@@ -63,18 +63,17 @@ echo '<div class="container">
             </a>
             <!-- Dropdown list -->
             <div class="dropdown-menu dropdown-menu-right">
-              <a class="dropdown-item" href="category.php">Category</a>
-              <a class="dropdown-item" href="single.php">Single Page</a>
+              <a class="dropdown-item" href="category.php">Marcas</a>
+              <a class="dropdown-item" href="single.php">Perfil Usuario</a>
               <a class="dropdown-item" href="store-single.php">Store Single</a>
-              <a class="dropdown-item" href="dashboard.php">Dashboard</a>
-              <a class="dropdown-item" href="user-profile.php">User Profile</a>
+              <a class="dropdown-item" href="user-profile.php">Editar Usuario</a>
               <a class="dropdown-item" href="submit-coupon.php">Submit Coupon</a>
               <a class="dropdown-item" href="agregarVehiculo.php">agregar vehiculo</a>
               <a class="dropdown-item" href="single-blog.php">Single Post</a>
             </div>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="category.php">Categorias</a>
+            <a class="nav-link" href="category.php">Marcas</a>
           </li>
         </ul>
         <ul class="navbar-nav ml-auto mt-10">
